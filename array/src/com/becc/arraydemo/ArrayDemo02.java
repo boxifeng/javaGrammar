@@ -4,6 +4,7 @@ package com.becc.arraydemo;
 /*
 这个demo证明 当一个数组A赋值给数组B时，B与A共
 用相同的内存地址，所以当B的值发生改变时A的值也相应改变
+即A和B是同一个数组
  */
 public class ArrayDemo02 {
     public static void main(String[] args) {
