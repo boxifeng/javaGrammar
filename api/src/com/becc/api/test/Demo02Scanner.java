@@ -1,3 +1,5 @@
+package com.becc.api.test;
+
 import java.util.Scanner;
 
 public class Demo02Scanner {
