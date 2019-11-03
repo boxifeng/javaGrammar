@@ -5,6 +5,7 @@ public class Student {
     private int age;
     //姓名
     private String name;
+    static String classRoom;
 
     public Student() {
     }
