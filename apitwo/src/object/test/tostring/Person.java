@@ -1,4 +1,4 @@
-package ObjectTest;
+package object.test.tostring;
 
 public class Person {
     private String name;
