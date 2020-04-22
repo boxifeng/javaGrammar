@@ -42,4 +42,7 @@ public class Person {
                 ", age=" + age +
                 '}';
     }
+    public void eat(){
+        System.out.println("eat...............");
+    }
 }
